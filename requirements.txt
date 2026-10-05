@@ -1,0 +1,9 @@
+# =========================
+# FILE: requirements.txt
+# =========================
+
+pygame
+numpy
+matplotlib
+torch
+ipython
